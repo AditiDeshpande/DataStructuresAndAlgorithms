@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.List;  
 import java.util.stream.Collectors;  
 
+
+/*
+stream is available in Java8
+*/
+
 public class RemoveDuplicate{
 
      public static void main(String []args){
